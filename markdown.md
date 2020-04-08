@@ -62,7 +62,8 @@ system.out.print("hello word!") }
 ![logo](https://pbs.twimg.com/profile_images/1210878539093831680/Ouha1G11_400x400.jpg)
 
 
-![logo][2]
-[2]:https://pbs.twimg.com/profile_images/1210878539093831680/Ouha1G11_400x400.jpg
+![logo][2]  
+
+[2]: https://pbs.twimg.com/profile_images/1210878539093831680/Ouha1G11_400x400.jpg
  
 
