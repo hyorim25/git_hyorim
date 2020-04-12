@@ -37,11 +37,15 @@
 
 > git commit -n"first commit" ""따옴표 안에 commit을 설명하는 설명을 넣어서 담을 수 있다.
 
-![logo](https://mail.naver.com/read/image/original/?mimeSN=1586687146.684670.406.46848&offset=118585&size=89042&u=gyfladl2568&cid=61cffb8c98df5314684194ceb8cb682@cmweb02.nm.nfra.io&contentType=image/jpeg&filename=20200412_192424.jpg&org=1)
+>> 진행상황:first commit----cat(파일이름)
 
 > sourcetree에 들어가 스테이지에 올리지 않은 파일에 있는 파일을 발견하여 +를 눌러 스테이지로 올린다.
 
-![logo](https://mail.naver.com/read/image/original/?mimeSN=1586687146.684670.406.46848&offset=1573&size=116700&u=gyfladl2568&cid=ac076432d3b5ba925fec4fe1c22bac2@cmweb02.nm.nfra.io&contentType=image/jpeg&filename=20200412_192437.jpg&org=1)
+>> 진행상황: 
+add dog ------ dog(새로운 파일이름)
+
+first commit-----cat(파일이름)
+
 
 # 장점
 
