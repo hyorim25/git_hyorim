@@ -37,7 +37,7 @@
 
 > git commit -n"first commit" ""따옴표 안에 commit을 설명하는 설명을 넣어서 담을 수 있다.
 
-![commit]((./commit.jpg)
+![commit](./commit.jpg)
 >> 진행상황:first commit----cat(파일이름)
 
 > sourcetree에 들어가 스테이지에 올리지 않은 파일에 있는 파일을 발견하여 +를 눌러 스테이지로 올린다.
