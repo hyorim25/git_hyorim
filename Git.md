@@ -3,7 +3,9 @@
 
 # Git 설치 준비물
 > Git홈페이지에서 download
+
 > VScode 홈페이지에서 download
+
 > Sourcetree 홈페이지에서 download
 
 # Git 저장소 만드는 방법
