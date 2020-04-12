@@ -19,14 +19,29 @@
 -----만든 파일을 Git이 관리하도록 만드는 방법 2가지가 있다.-----------
 
 1. CLI로 하는 방법: CTRL키와 `키를 함께 누르면 하단에 터미널이 열린다.
+
 > 아래 하단에 GIT init의 코드를 치면 이 폴더가 저장소에 들어가져있음을 알 수 있다.
+
 > git config--global user.name"(내이름)"
+
 > git config--global user.name"(내 메일주소)"
+
 2. sourcetree에 들어가서 해당 파일을 연다.
 > 처음 시작할 때 이름과 메일주소를 입력하였기에 저장되어있음을 확인할 수 있다. 
 
 #Git 사용방법
 
+> git에 담기위해서 하단의 창에 git add A를 친다.
+
+> git status를 친다. 왼쪽의 창 모든 것들에게 담는다는 뜻이다.
+
+> git commit -n"first commit" ""따옴표 안에 commit을 설명하는 설명을 넣어서 담을 수 있다.
+
+![logo](https://mail.naver.com/read/image/original/?mimeSN=1586687146.684670.406.46848&offset=118585&size=89042&u=gyfladl2568&cid=61cffb8c98df5314684194ceb8cb682@cmweb02.nm.nfra.io&contentType=image/jpeg&filename=20200412_192424.jpg&org=1)
+
+> sourcetree에 들어가 스테이지에 올리지 않은 파일에 있는 파일을 발견하여 +를 눌러 스테이지로 올린다.
+
+![logo](https://mail.naver.com/read/image/original/?mimeSN=1586687146.684670.406.46848&offset=1573&size=116700&u=gyfladl2568&cid=ac076432d3b5ba925fec4fe1c22bac2@cmweb02.nm.nfra.io&contentType=image/jpeg&filename=20200412_192437.jpg&org=1)
 
 # 장점
 
